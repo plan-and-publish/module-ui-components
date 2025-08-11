@@ -1,10 +1,10 @@
 name: module_ui_components_showcase
 description: "This project contains Module UI Components"
 publish_to: 'none'
-version: 0.1.0
+version: 1.0.0+1
 
 environment:
-  sdk: ^3.6.1
+  sdk: ">=3.6.0 <4.0.0"
 
 dependencies:
   flutter:
