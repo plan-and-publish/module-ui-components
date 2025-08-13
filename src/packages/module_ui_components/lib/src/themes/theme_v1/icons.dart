@@ -2,7 +2,7 @@ part of 'package:module_ui_components/theme/theme_provider.dart';
 
 abstract class _ThemeV1IconSet {
   static const String _fontFamily = 'PAPIconSet';
-  static const packageName = 'pap_ui_kit';
+  static const packageName = 'module_ui_components';
 
   static const transfer = IconData(
     0xe900,
