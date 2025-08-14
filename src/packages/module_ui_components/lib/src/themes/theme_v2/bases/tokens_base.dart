@@ -1,0 +1,56 @@
+part of 'package:module_ui_components/theme/theme_provider.dart';
+
+abstract class _TokensBase {
+  _TokensBase();
+
+  Color get borderDefault;
+  Color get borderDefaultSubtle;
+  Color get borderDefaultLight;
+  Color get borderDark;
+  Color get borderDarker;
+  Color get borderError;
+  Color get borderWarning;
+  Color get borderAccent;
+  Color get contentAccent;
+  Color get contentAccentDarker;
+  Color get contentAccentStrong;
+  Color get contentAccentDisabled;
+  Color get contentPrimary;
+  Color get contentPrimaryLight;
+  Color get contentSecondary;
+  Color get contentTertiary;
+  Color get contentInverse;
+  Color get contentStatic;
+  Color get contentError;
+  Color get contentInfo;
+  Color get contentSuccess;
+  Color get contentWarning;
+  Color get surfaceAccentDefault;
+  Color get surfaceArea;
+  Color get surfaceAreaDarker;
+  Color get surfaceDefault;
+  Color get surfaceCanvas;
+  Color get surfaceCanvasDarker;
+  Color get surfaceSubtle;
+  Color get surfaceSubtleLighter;
+  Color get surfaceMinimal;
+  Color get surfaceModerate;
+  Color get surfaceStrong;
+  Color get surfaceStatic;
+  Color get surfaceSuccess;
+  Color get surfaceError;
+  Color get surfaceWarning;
+  Color get surfaceInfo;
+  Color get surfaceActionPrimary;
+  Color get surfaceActionSecondary;
+  Color get surfaceActionTertiary;
+  Color get surfaceActionErrorDefault;
+  Color get surfaceActionErrorLighter;
+  Color get surfaceActionErrorDarker;
+  Color get surfaceAccentDefaultLighter;
+  Color get surfaceAccentDefaultDarker;
+  Color get surfaceAccentLightSubtle;
+  Color get surfaceAccentLightMinimal;
+  Color get surfaceAccentLightModerate;
+  Color get surfaceBackdrop;
+}
