@@ -1,6 +1,6 @@
 # PAP Module UI Components
 
-A comprehensive Flutter package containing core UI components used across PAP (Platform for Applications and Platforms) modules. This package provides a consistent design system and reusable components to ensure a unified user experience across all PAP applications.
+A comprehensive Flutter package containing core UI components used across PAP modules. This package provides a consistent design system and reusable components to ensure a unified user experience.
 
 ## Features
 
