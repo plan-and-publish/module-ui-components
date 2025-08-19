@@ -8,19 +8,16 @@
         "build": true,  
         "ios": true,  
         "pubspec.lock": true,  
-        "dev.pap.playground.iml": true,  
-        "README.md": true,  
+        "**/*.iml": true,  
+        "**/LICENSE": true,
         "**/*.config.dart": true,  
-        "**/*.gr.dart": false,  
+        "**/pubspec.lock": true,
+        "**/analysis_options.yaml": true,
         "**/*.g.dart": true,  
         "**/*.mocks.dart": true,  
         "**/*.freezed.dart": true,  
         "**/.flutter-plugins*": true,  
         "debug.log": true,  
         "web" : true  
-    },  
-    "cSpell.words": [  
-        "sublist",  
-        "unfocus"  
-    ]  
+    }
 }  
