@@ -42,7 +42,7 @@ packages:
     source: hosted
     version: "1.19.0"
   custom_pop_up_menu:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: custom_pop_up_menu
       sha256: eeac484c6ddffffb25e803dc2a5cc9381e700a29f074e9fcc76fe36b62fde850
@@ -50,7 +50,7 @@ packages:
     source: hosted
     version: "1.2.4"
   dropdown_button2:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: dropdown_button2
       sha256: b0fe8d49a030315e9eef6c7ac84ca964250155a6224d491c1365061bc974a9e1
@@ -74,7 +74,7 @@ packages:
     source: hosted
     version: "2.1.3"
   flash:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: flash
       sha256: f8b6ed7410df7581b35824967427b79b4e66d59c8f24012ed10f26667a4d44b1
@@ -161,7 +161,7 @@ packages:
     source: hosted
     version: "5.1.1"
   loading_indicator:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: loading_indicator
       sha256: a101ffb2aa3e646137d7810bfa90b50525dd3f72c01235b6df7491cf6af6f284
@@ -192,6 +192,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.15.0"
+  module_ui_components:
+    dependency: "direct main"
+    description:
+      path: "../module_ui_components"
+      relative: true
+    source: path
+    version: "0.0.1"
   path:
     dependency: transitive
     description:
@@ -209,7 +216,7 @@ packages:
     source: hosted
     version: "2.1.8"
   rive:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: rive
       sha256: "2551a44fa766a7ed3f52aa2b94feda6d18d00edc25dee5f66e72e9b365bb6d6c"
@@ -225,7 +232,7 @@ packages:
     source: hosted
     version: "0.4.15"
   shimmer:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: shimmer
       sha256: "5f88c883a22e9f9f299e5ba0e4f7e6054857224976a5d9f839d4ebdc94a14ac9"

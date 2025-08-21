@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   module_ui_components:
-    path: packages/module_ui_components
+    path: ../module_ui_components
 
 dev_dependencies:
   flutter_lints: ^5.0.0
