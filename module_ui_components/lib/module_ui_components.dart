@@ -9,6 +9,7 @@ export 'helpers/toaster_helper.dart';
 export 'helpers/decoration_helper.dart';
 
 // widgets
+export 'widgets/bases/bases.dart';
 export 'widgets/pap_toast_manager/pap_toast_overlay.dart';
 export 'widgets/pap_text.dart';
 export 'widgets/pap_context_menu/pap_context_menu.dart';
