@@ -20,7 +20,7 @@ dependencies:
   module_ui_components:
     git:
       url: git@github.com:plan-and-publish/module-ui-components
-      path: module-ui-components
+      path: module_ui_components
 ```
 
 Then run:

@@ -1,0 +1,60 @@
+name: module_ui_components
+description: "Package that contains Core Ui Components to create Modules"
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  custom_pop_up_menu: ^1.2.4
+  dropdown_button2: ^2.3.9
+  flash: ^3.1.1
+  flutter:
+    sdk: flutter
+  loading_indicator: ^3.1.1
+  rive: ^0.13.20
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: PAPIconSet
+      fonts:
+        - asset: assets/font_icons/pap_icon_set.ttf
+    - family: PAPIconSetV2
+      fonts:
+        - asset: assets/font_icons/pap_icon_set_v2.ttf
+    - family: DMSans
+      fonts:
+        - asset: assets/fonts/dm_sans/DMSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/dm_sans/DMSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/dm_sans/DMSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/dm_sans/DMSans-Bold.ttf
+          weight: 700
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/manrope/Manrope-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/manrope/Manrope-Light.ttf
+          weight: 300
+        - asset: assets/fonts/manrope/Manrope-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/manrope/Manrope-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/manrope/Manrope-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/manrope/Manrope-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/manrope/Manrope-ExtraBold.ttf
+          weight: 800
+
